@@ -1,6 +1,10 @@
-soy amigable 
 
-<!--Andrés Mauricio noscue cerquera>
+
+
+[Andrés Mauricio Noscue Cerquera]
+Aspirante a Desarrollador 
+¡Hola, mundo! 👋
+Soy [Andrés Mauricio Noscue Cerquera], actualmente estoy explorando el vasto universo del desarrollo de software. Aunque estoy en las primeras etapas de mi viaje, estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades en comprender conceptos sobre la programación.
 
 
 - 🔭 I’m currently working on ...
